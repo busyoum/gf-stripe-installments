@@ -161,3 +161,4 @@ Issues and pull requests welcome, especially around: Strong Customer Authenticat
 ## Licence
 
 GPL-2.0-or-later. See [LICENSE](LICENSE).
+Copyright (C) 2026 Nawel Initiative.
