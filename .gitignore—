@@ -1,0 +1,19 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Build
+*.zip
+
+# Environment / secrets - never commit keys
+.env
+.env.*
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
